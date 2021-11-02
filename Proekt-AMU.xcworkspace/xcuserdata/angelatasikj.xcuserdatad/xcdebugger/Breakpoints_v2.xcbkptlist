@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Proekt-AMU/FamilyDoctorsController.swift"
+            timestampString = "657520726.296542"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Proekt-AMU/ReqResTableViewController.swift"
+            timestampString = "657520726.296692"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ReqResTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Proekt_AMU.ReqResTableViewController.index.getter : Swift.Int"
+                  moduleName = "Proekt-AMU"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelatasikj/Downloads/AMU_Proekt_Vakcinacija-master/Proekt-AMU/ReqResTableViewController.swift"
+                  timestampString = "657520727.2541521"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "102">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Proekt_AMU.ReqResTableViewController.index.setter : Swift.Int"
+                  moduleName = "Proekt-AMU"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelatasikj/Downloads/AMU_Proekt_Vakcinacija-master/Proekt-AMU/ReqResTableViewController.swift"
+                  timestampString = "657520727.319749"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Proekt_AMU.ReqResTableViewController.init(style: __C.UITableViewStyle) -&gt; Proekt_AMU.ReqResTableViewController"
+                  moduleName = "Proekt-AMU"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelatasikj/Downloads/AMU_Proekt_Vakcinacija-master/Proekt-AMU/ReqResTableViewController.swift"
+                  timestampString = "657520727.34807"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Proekt_AMU.ReqResTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Proekt_AMU.ReqResTableViewController"
+                  moduleName = "Proekt-AMU"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelatasikj/Downloads/AMU_Proekt_Vakcinacija-master/Proekt-AMU/ReqResTableViewController.swift"
+                  timestampString = "657520727.399205"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Proekt_AMU.ReqResTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Proekt_AMU.ReqResTableViewController&gt;"
+                  moduleName = "Proekt-AMU"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelatasikj/Downloads/AMU_Proekt_Vakcinacija-master/Proekt-AMU/ReqResTableViewController.swift"
+                  timestampString = "657520727.433895"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
